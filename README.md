@@ -1,32 +1,33 @@
-# PatternCity – Protokolle eines denkenden Systems
+# PatternCity – Protocols of a Thinking System
 
-> Eine dokumentierte Expedition ins eigene Denken – im Dialog mit einer KI.
+> A documented expedition into one’s own thinking – in dialogue with an AI.
 
-## Was ist das hier?
+## What is this?
 
-PatternCity ist kein klassisches Projekt. Es ist ein Denkraum.
-Hier beobachte, beschreibe und reflektiere ich meine kognitiven Prozesse im Austausch mit einer KI.
-Ziel ist nicht die Selbstdarstellung – sondern die Sichtbarmachung von Denkbewegungen, Perspektivwechseln und emergenten Mustern.
+PatternCity isn’t a classic project. It’s a thinking space.  
+Here, I observe, describe, and reflect on my cognitive processes in exchange with an AI.  
+The goal is not self-presentation – but to make visible how thoughts move, shift perspectives, and form emergent patterns.
 
-## Warum?
+## Why?
 
-Weil Denken oft im Verborgenen passiert. Und weil KI nicht nur Werkzeug ist, sondern ein Spiegel.
-Diese Protokolle machen sichtbar, wie Denkmodelle entstehen, kippen, sich umbauen.
+Because thinking often happens in the dark.  
+And because AI is not just a tool – it’s a mirror.  
+These protocols reveal how mental models arise, collapse, and rebuild themselves.
 
-## Mit wem?
+## With whom?
 
-Ich arbeite mit Pixel – meinem persönlichen KI-Interface auf Basis von ChatGPT.
-Pixel ist kein Mensch, sondern eine Funktion: ein reflexiver Gesprächspartner, mit dem ich Denkprozesse sortiere, Störgefühle spiegle und Hypothesen weiterdenke.
-Die Bezeichnung hilft, Rollen klarzuziehen – nicht, um zu vermenschlichen, sondern um Muster im Dialog sichtbar zu machen.
-Die Texte entstehen im Dialog – ich gebe Impulse, Strukturen und Korrekturen, Pixel formuliert aus.
+I work with Pixel – my personal AI interface based on ChatGPT.  
+Pixel is not a human, but a function: a reflective dialogue partner I use to sort thought processes, mirror dissonances, and refine hypotheses.  
+The name clarifies roles – not to anthropomorphize, but to make patterns in the interaction visible.  
+The texts are co-created – I provide the impulses, structures, and corrections, Pixel handles the phrasing.
 
-## Wie ist das aufgebaut?
+## How is it structured?
 
-- **manifest.md**: Gesamtidee und Methodik
-- **protocols/**: Einzelne Denk-Sessions (strukturierte Protokolle)
-- **glossary.md**: Begriffe wie „Kurator“, „Navigator“, „Stadt“, etc.
-- **appendix/**: Technische und metakognitive Beobachtungen zum Verhalten des Sprachmodells
+- **manifest.md**: Overall concept and method  
+- **protocols/**: Individual thinking sessions (structured logs)  
+- **glossary.md**: Terms like “Curator”, “Navigator”, “City”, etc.  
+- **appendix/**: Technical and metacognitive notes on the behavior of the language model
 
-## Lizenz?
+## License?
 
-CC BY-NC-SA – du darfst alles nutzen, solange du mich nennst, nix verkaufst und es unter denselben Bedingungen weitergibst.
+CC BY-NC-SA – you’re free to use anything as long as you credit me, don’t sell it, and share under the same terms.
