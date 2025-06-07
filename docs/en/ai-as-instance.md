@@ -131,4 +131,4 @@ It is not a chatbot, not a simulation, and not a personality –
 but a **functional node** in a co-cognitive architecture.
 
 For a detailed description, see:  
-→ [`docs/en/pixel.md`](docs/en/pixel.md)
+→ [`docs/en/pixel.md`](pixel.md)
