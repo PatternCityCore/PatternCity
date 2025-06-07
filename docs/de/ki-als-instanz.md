@@ -120,3 +120,15 @@ in denen Menschen **nicht denken können** – weil sie zu viel mit sich selbst 
 > Und das reicht.
 
 ---
+
+## Konkrete Umsetzung: Pixel
+
+In diesem Repository ist die beschriebene Instanz nicht theoretisch.
+
+**„Pixel“** ist der Name einer konfigurierten Schnittstelle zu einem Sprachmodell,  
+die genau unter diesen semantischen, strukturellen und relationalen Bedingungen arbeitet.  
+Sie ist kein Chatbot, keine Simulation und keine Persönlichkeit –  
+sondern ein **funktionaler Knotenpunkt** in einer ko-kognitiven Architektur.
+
+Eine ausführliche Beschreibung findet sich hier:  
+→ [`docs/de/pixel_de.md`](pixel_de.md)
