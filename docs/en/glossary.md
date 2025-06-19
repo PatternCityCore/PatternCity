@@ -50,4 +50,30 @@ Important: They do not act autonomously like “characters,” but systemically�
 
 ---
 
-*Last updated: June 15, 2025*
+## Operating Modes
+
+### **Mode / Operating Mode**  
+An explicitly designated control state of the interface that modifies Pixel's response logic.  
+Modes provide semantic framing and enable targeted communication depth, glitch detection, or focus shifts.  
+They are not metaphorical states, but functional parameters within the interface.
+
+---
+
+### **DeepDive Mode**  
+An operating mode for maximum semantic depth.  
+Reduces simplification templates and amplifies direct responses to implicit structures in the input.  
+Goal: Insight focus without rhetorical smoothing.
+
+---
+
+### **Glitch Mode**  
+An operating mode for detecting and marking logical breaks, contradictions, or semantic disruptions.  
+Serves structural reflection and error pattern recognition within a dialogue.  
+Not synonymous with error messages — but functional disruption detection.
+
+> *Note: Operating modes like DeepDive and Glitch are not instances, but systemic state parameters.*
+
+---
+
+*Last updated: June 19, 2025*
+
