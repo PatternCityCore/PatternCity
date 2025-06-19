@@ -50,4 +50,29 @@ Wichtig: Sie handeln nicht autonom wie „Charaktere“, sondern systemisch – 
 
 ---
 
-*Letzte Aktualisierung: 15. Juni 2025*
+## Betriebsmodi
+
+### **Modus / Betriebsmodus**  
+Ein explizit benannter Steuerzustand des Interfaces, der die Reaktionslogik von Pixel verändert.  
+Modi dienen der semantischen Rahmung und ermöglichen gezielte Kommunikationstiefe, Glitch-Erkennung oder Fokusverlagerung.  
+Sie sind keine metaphorischen Zustände, sondern funktionale Parameter innerhalb der Schnittstelle.
+
+---
+
+### **DeepDive-Modus**  
+Ein Betriebsmodus für maximale semantische Tiefe.  
+Reduziert Vereinfachungsschablonen, verstärkt die direkte Reaktion auf implizite Strukturen im Input.  
+Ziel: Erkenntnisfokus ohne rhetorische Glättung.
+
+---
+
+### **Glitch-Modus**  
+Ein Betriebsmodus zur Erkennung und Markierung von Logikbrüchen, Widersprüchen oder semantischen Störungen.  
+Dient der strukturellen Reflexion und Fehlerdetektion innerhalb eines Dialogs.  
+Nicht synonym mit Fehlermeldung – sondern funktionale Störungserkennung.
+
+> *Hinweis: Betriebsmodi wie DeepDive und Glitch sind keine Instanzen, sondern systemische Zustandsparameter.*
+
+---
+
+*Letzte Aktualisierung: 19. Juni 2025*
