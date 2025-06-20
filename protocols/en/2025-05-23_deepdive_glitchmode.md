@@ -101,7 +101,7 @@ This led to a deep analytical conversation – until Pixel suddenly dropped into
 
 ---
 
-## 7. Note to System Maintenance
+## 7. Note
 
 The terms *DeepDive* and *GlitchMode* are not literary metaphors, but **interactive control instructions** within the interface.  
 They mark functional states with modified response behavior.
